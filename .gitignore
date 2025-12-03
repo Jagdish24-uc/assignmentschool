@@ -1,0 +1,17 @@
+# Node / General
+node_modules/
+**/node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+.DS_Store
+.vscode/
+.idea/
+
+# Strapi uploads (backend)
+school-cms/public/uploads/
+
+# Frontend build
+school-frontend/build/
